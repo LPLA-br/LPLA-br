@@ -1,4 +1,4 @@
-<img src="logo.png" align="left" width="200px">
+<img src="logotipo.png" align="left" width="200px">
 Name: Luiz Paulo De Lima Araújo
 <br>
 OS: Arch linux
