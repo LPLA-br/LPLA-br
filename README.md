@@ -5,7 +5,7 @@ OS: Arch linux
 <br>
 Location: Brazil
 <br>
-Hobbies: amateur astronomy, cycling ...
+Hobbies: amateur astronomy, cycling, learn linux.
 <br>
 Projects: none for now
 <br>
