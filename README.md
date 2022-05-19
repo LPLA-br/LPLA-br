@@ -12,3 +12,5 @@ Projects: none for now
 Favorite-Language: C
 <br>
 Learning: html css javascript
+<br>
+State: beginner
