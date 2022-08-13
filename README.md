@@ -11,6 +11,6 @@ Projects: none for now
 <br>
 Favorite-Language: C
 <br>
-Learning: undefined
+Learning: Javascript, html and css
 <br>
 State: beginner
