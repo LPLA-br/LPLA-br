@@ -1,16 +1,13 @@
-<h1> Saluete ! Programatori </h1>
-<p> Mihi Nomen Luiz Paulus est. et tecnologiae discipulum sum, quoque brasiliae sum.
-</p>
+<h1> Saluete Programatori ! </h1>
+<p> Mihi Nomen Luiz Paulus est. et tecnologiae discipulum sum, quoque brasiliae sum. </p>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/luiz-paulo-82846a255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZzVz%2FPvhTKyyyKP5XOcMeg%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin">
 </a>
 
-<a href="#">
+<a href="https://stackoverflow.com/users/20373525/luiz">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow">
 </a>
-
-<h2></h2>
 
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 
@@ -31,9 +28,6 @@
 <img align="left" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 <img align="left" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
-
-
-## teste
 
 [![card](https://github-readme-stats.vercel.app/api?username=LPLA-br&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
