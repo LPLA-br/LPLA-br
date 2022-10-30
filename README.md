@@ -29,6 +29,4 @@
 
 <img align="left" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
 
-[![card](https://github-readme-stats.vercel.app/api?username=LPLA-br&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 
