@@ -8,29 +8,9 @@
 
 "Leges principique animadverte !"
 
-## UNIX - WHERE THERE IS A SHELL, THERE IS A WAY !
+## WHERE THERE IS A SHELL, THERE IS A WAY !
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bsd,bash,docker,vim,git)](https://skillicons.dev)
-
-## ADMIRABLE LANGUAGES, COMPILERS, TRANSPILERS, INTERPRETERS, PACKAGE MANAGERS, LIBRARIES AND FRAMEWORKS.
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,ts,py,haskell,nodejs,npm,express,react)](https://skillicons.dev)
-
-## CLASSICAL WEB TRIAD
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-## STORED INFORMATION IS A WONDERFUL !
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
-
-## FORMAT YOUR DOCUMENTATION !
-
-[![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
-
-## WEB RESOURCES, HELP US !
-
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bsd,bash,docker,vim,git,c,cpp,arduino,ts,py,haskell,nodejs,npm,express,react,js,html,css,mysql,sqlite,postgres,latex)](https://skillicons.dev)
 
 <!-- <a href="http://www.luizpaulo.eti.br"> www.luizpaulo.eti.br </a> -->
 
