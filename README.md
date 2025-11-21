@@ -4,10 +4,6 @@
 
 "Arquitecti est scientia pluribus disciplinis et variis eruditionibus ornata, quae ab ceteris artibus perficiuntur. Opera ea nascitur et fabrica et ratiocinatione. \(DE ARCHITECTURA, Liber primus, Caput primus\)"
 
-"Verba volant, scripta manent"
-
-"Leges principique animadverte !"
-
 ## WHERE THERE IS A SHELL, THERE IS A WAY !
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bsd,bash,docker,vim,git,c,cpp,arduino,ts,py,haskell,nodejs,npm,express,react,js,html,css,mysql,sqlite,postgres,latex)](https://skillicons.dev)
