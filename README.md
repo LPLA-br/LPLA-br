@@ -10,7 +10,7 @@
 
 <!-- <a href="http://www.luizpaulo.eti.br"> www.luizpaulo.eti.br </a> -->
 
-## CHAVE PÚBLICA RSA
+## CHAVE PÚBLICA RSA para certificação & assinatura \[SC\]
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
